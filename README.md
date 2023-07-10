@@ -1,4 +1,4 @@
-# Exercise :cartwheeling: useEffect 
+# Exercise :cartwheeling: useState 
 
 ### Twitter feature
 
