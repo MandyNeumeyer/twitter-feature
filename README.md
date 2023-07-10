@@ -1,4 +1,6 @@
-# Twitter feature
+# Exercise :cartwheeling: useEffect 
+
+### Twitter feature
 
 The tech team at Twitter has introduced some new features.
 
@@ -7,7 +9,7 @@ Unfortunately the "who to follow suggestions" for the users stopped working sinc
 Elon has assigned a ticket to you to rewrite the frontend code for this part of the program.
 
 -----------------------------------------------------------------
-### hint
+**:eye_speech_bubble: hint**
 
 For the avatar use the following code as src attribute for the img
 ```javascript
@@ -18,7 +20,7 @@ For the avatar use the following code as src attribute for the img
 
 ---
 
-### use the following example data 
+**use the following example data**
 
 ```javascript
 const users = [
